@@ -1,4 +1,4 @@
-Overview
+
 This project is a simple web-based Rock Paper Scissors game where users can play against the computer. The game features a clean and modern user interface with responsive design for various devices.
 
 Features
